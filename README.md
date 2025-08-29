@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SpongeBob Working on Laptop.png" width="200" alt="SpongeBob IT">
+  ![SpongeBob](spongebob.png) <span style="color: #4CAF50;">● LIVE</span>
 </p>
 
 <p align="center">
