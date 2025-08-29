@@ -1,5 +1,5 @@
 <p align="center">
-  ![SpongeBob](spongebob.png) <span style="color: #4CAF50;">● LIVE</span>
+  ![SpongeBob](spongebob working on laptop.png) <span style="color: #4CAF50;">● LIVE</span>
 </p>
 
 <p align="center">
