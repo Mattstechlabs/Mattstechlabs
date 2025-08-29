@@ -10,7 +10,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Mattstechlabs">
-    <img alt="GitHub" src="https://img.shields.io/badge/💻_GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/💻_GitHub-0077b5?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
