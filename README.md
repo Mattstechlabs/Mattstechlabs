@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="spongebobworkingonlaptop.png" width="200" alt="SpongeBob IT">
+  <img src="SpongeBob Working on Laptop.png" width="200" alt="SpongeBob IT">
 </p>
 
 ## Hi there 👋
