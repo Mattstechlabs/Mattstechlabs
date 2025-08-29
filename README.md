@@ -1,6 +1,18 @@
+<div align="center">
+  <div style="position: relative; display: inline-block; width: 80px; height: 80px;">
+    <img src="SpongeBob.png" alt="SpongeBob" width="80" height="80" style="border-radius: 50%;">
+    <span style="position: absolute; bottom: 0; right: 0; background-color: #4CAF50; color: white; font-size: 8px; font-weight: bold; padding: 2px 4px; border-radius: 10px;">
+      LIVE
+    </span>
+  </div>
+</div>
+
 <p align="center">
-  ![SpongeBob](spongebob working on laptop.png) <span style="color: #4CAF50;">● LIVE</span>
+  Hello Welcome To Matts Tech Labs👋🏿
 </p>
+
+
+
 
 <p align="center">
   <a href="resume.pdf">
