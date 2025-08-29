@@ -2,7 +2,6 @@
   <img src="SpongeBob Working on Laptop.png" width="200" alt="SpongeBob IT">
 </p>
 
-## Hi there 👋
 <p align="center">
   [![Resume](https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge)](resume.pdf)  
   [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mattgregory96)  
