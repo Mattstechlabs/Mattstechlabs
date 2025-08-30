@@ -30,14 +30,79 @@
 </p>
 
 
-
+### 🧰 Toolbox
 
 <div align="center">
 
-| Programming & Scripting | Networking & Protocols | Systems & Admin | Cloud & Tools |
-|---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Bash (shell scripting)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/><br>Google Apps Script (G-Suite scripting) | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" width="40"/><br>Wireshark (packet capture)<br>🛜 Switches & Routers<br>🔁 TCP<br>🌐 DNS (domain name system) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/><br>Windows Server<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux<br>🍎 macOS / iOS<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br>Android<br>🗂️ Active Directory (AD) — OUs, GPOs, password reset | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br>Microsoft Azure<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL / MySQL<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git / GitHub<br><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ServiceNow_logo.svg" width="80" style="margin-top:6px;"/><br>ServiceNow |
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/><br>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"/><br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="50" alt="Google Apps Script"/><br>Google Script
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/wireshark.png" width="50" alt="Wireshark"/><br>Wireshark
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows Server"/><br>Windows Server
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" alt="macOS"/><br>macOS / iOS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" alt="Android"/><br>Android
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/ios-filled/50/000000/active-directory.png" width="50" alt="Active Directory"/><br>Active Directory / GPO
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/ios-filled/50/000000/switch.png" width="50" alt="Switches"/><br>Switches / Routers
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/ios-filled/50/000000/network.png" width="50" alt="TCP"/><br>TCP / Networking
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/fluency/48/domain.png" width="50" alt="DNS"/><br>DNS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/><br>AWS
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure"/><br>Azure
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL"/><br>SQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br>Git / GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/96/servicenow.png" width="50" alt="ServiceNow"/><br>ServiceNow
+    </td>
+  </tr>
+</table>
+
 </div>
-
-
-
