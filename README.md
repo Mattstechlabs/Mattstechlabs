@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="resume.pdf">
+  <a href="Matthew_Gregory_Resume_TechSupportLead_v2.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge">
   </a>
   <a href="https://linkedin.com/in/Mattgregory96">
