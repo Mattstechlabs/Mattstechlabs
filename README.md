@@ -120,9 +120,16 @@
 ⬇️  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> Azure <br> 2021  
 ⬇️  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019–present%29.svg" width="40" alt="Word"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282019–present%29.svg" width="40" alt="Excel"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Microsoft_Office_PowerPoint_%282019–present%29.svg" width="40" alt="PowerPoint"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_%282019–present%29.svg" width="40" alt="Outlook"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Teams_%282018–present%29.svg" width="40" alt="Teams"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_OneNote_%282019–present%29.svg" width="40" alt="OneNote"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Access_%282019–present%29.svg" width="40" alt="Access"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Office_Publisher_%282019–present%29.svg" width="40" alt="Publisher"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg" width="40"/><img src="https://brandfetch.com/service-now.com" alt="ServiceNow Logo" width="40"/>
-
-<br> Remote Cusotmer Service - Property Brothers LLC <br> 2020-20223<br>
+Remote Cusotmer Service - Property Brothers LLC <br> 2020-20223<br>
 ⬇️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg" width="40"/><br> Verizon - Sales <br> 2017-2020<br>
