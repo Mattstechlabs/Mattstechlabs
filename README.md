@@ -106,3 +106,18 @@
 </table>
 
 </div>
+### 🛠️ My Learning Journey
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> <br> Python <br> 2018 <br> fell in love with python in school was the first time I felt like i was on the right path was someting so people but just learning how to make the computer say "Hello World" really just opend my eyes to what we could really do with code   
+⬇️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> Bash <br> 2019  
+⬇️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> Linux <br> 2020  
+⬇️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> Azure <br> 2021  
+⬇️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git / GitHub <br> 2022  
+
+</div>
