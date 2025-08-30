@@ -25,5 +25,19 @@
     <img alt="GitHub" src="https://img.shields.io/badge/💻_GitHub-0077b5?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+<p align="center">
+🧰 Toolbox
+</p>
+
+
+
+
+<div align="center">
+
+| Programming & Scripting | Networking & Protocols | Systems & Admin | Cloud & Tools |
+|---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Bash (shell scripting)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/><br>Google Apps Script (G-Suite scripting) | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" width="40"/><br>Wireshark (packet capture)<br>🛜 Switches & Routers<br>🔁 TCP<br>🌐 DNS (domain name system) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/><br>Windows Server<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux<br>🍎 macOS / iOS<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br>Android<br>🗂️ Active Directory (AD) — OUs, GPOs, password reset | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br>Microsoft Azure<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL / MySQL<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git / GitHub<br><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ServiceNow_logo.svg" width="80" style="margin-top:6px;"/><br>ServiceNow |
+</div>
+
 
 
