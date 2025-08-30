@@ -8,8 +8,10 @@
 </div>
 
 <p align="center">
-  Hello Welcome To Matts Tech Labs👋🏿
+  <span style="font-size: 32px; color: orange;">Hello Welcome To Matts Tech Labs👋🏿</span><br>
+  I’m a passionate and forever-learning tech enthusiast, always exploring new ways to solve problems and help others. I thrive in environments where I can grow my skills while contributing to a team, and I’m eager to join a tech support or IT team that challenges me and allows me to continuously learn.
 </p>
+
 
 
 
